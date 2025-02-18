@@ -1,0 +1,1 @@
+fg = print ("asd")
